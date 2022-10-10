@@ -1,6 +1,6 @@
 # HR-Dashboard-using-Power-BI
 
-Had a basic tounchdown to Power BI
+Had a basic touchdown to Power BI
 
 What I learn:
 
